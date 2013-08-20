@@ -12,4 +12,7 @@ tx.tinymce_linguaplone_patch.egg-info/paster_plugins.txt
 tx.tinymce_linguaplone_patch.egg-info/requires.txt
 tx.tinymce_linguaplone_patch.egg-info/top_level.txt
 tx/tinymce_linguaplone_patch/__init__.py
+tx/tinymce_linguaplone_patch/configure.zcml
+tx/tinymce_linguaplone_patch/patches.py
+tx/tinymce_linguaplone_patch/patches.zcml
 tx/tinymce_linguaplone_patch/tests.py
